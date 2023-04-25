@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kiran Maruthi Kuna
 - 👀 I’m interested in Developing Websites, Android Application and I'm good at programming
-- 🌱 I’m currently learning the technolgies like Android App Development(frontend and backend), AI and  Web development
-- 💞️ I’m looking to collaborate and work on the projects with the above domains
+- 🌱 I’m currently working on Java Fullstack and web Development.
+- 💞️ I’m looking to collaborate and work on the projects with the above domains.
 - 📫 How to reach me :- Mail me @ kunakiranmaruthi@gmail.com
 
 <!---
